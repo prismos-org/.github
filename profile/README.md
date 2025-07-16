@@ -5,5 +5,5 @@
 <h4 align="center">Privacy Is a human right.</h4>
 
 <p align="center">
-PrismOS is a rolling release security-focused linux distribution based on Arch Linux.
+Prism OS is a rolling release security-focused linux distribution based on Arch Linux.
 </p>
